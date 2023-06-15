@@ -1,0 +1,3 @@
+element.style {
+auto-complete, details-dialog, details-menu, file-attachment, filter-input, remote-input, tab-container, text-expander, turbo-frame, [data-catalyst] {
+    display: block;
